@@ -1,2 +1,0 @@
-# DroidVPN
-DroidVPN Official Downloads
