@@ -1,2 +1,2 @@
 # DroidVPN
-DroidVPN Official Downloads
+Droid DeeVPN Official Downloads
